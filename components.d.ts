@@ -31,7 +31,6 @@ declare module 'vue' {
     CarouselItem: typeof import('./src/components/ui/carousel/CarouselItem.vue')['default']
     CarouselNext: typeof import('./src/components/ui/carousel/CarouselNext.vue')['default']
     CarouselPrevious: typeof import('./src/components/ui/carousel/CarouselPrevious.vue')['default']
-    copy: typeof import('./src/components/AppInPlaceEdit/AppInPlaceEditText copy.vue')['default']
     DataTable: typeof import('./src/components/ui/data-table/DataTable.vue')['default']
     DropdownMenu: typeof import('./src/components/ui/dropdown-menu/DropdownMenu.vue')['default']
     DropdownMenuCheckboxItem: typeof import('./src/components/ui/dropdown-menu/DropdownMenuCheckboxItem.vue')['default']
